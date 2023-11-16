@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+matplotlib
+plotly
+time
+seaborn
+requests
+PIL
+io
+urllib
+IPython
+PIL
